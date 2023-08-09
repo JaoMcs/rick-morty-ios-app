@@ -1,0 +1,25 @@
+PODS:
+  - Alamofire (4.9.1)
+  - Alamofire-Decodable (3.0.0):
+    - Alamofire (~> 4.0)
+    - Decodable (~> 0.6.0)
+  - Decodable (0.6.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - Alamofire-Decodable
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Alamofire-Decodable
+    - Decodable
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  Alamofire-Decodable: 54a01eb61098e783c11078c47965b733ec5173ae
+  Decodable: f0b95fa2fcf8633dd097aa8f7f09838ab3524f5d
+
+PODFILE CHECKSUM: e25770a13d23c6a82cbfff810c830ee1a6ec234a
+
+COCOAPODS: 1.12.1
